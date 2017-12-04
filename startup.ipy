@@ -1,0 +1,14 @@
+from __future__ import division
+%matplotlib inline
+from matplotlib import pyplot as plt
+import datetime
+import yaml
+import pandas as pd
+import numpy as np
+import sys, os
+import patsy
+sys.path.append(os.environ['minotaur'])
+from dbs import redshift
+
+from pylab import rcParams
+rcParams['figure.figsize'] = 14,3
