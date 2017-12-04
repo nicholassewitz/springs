@@ -1,5 +1,0 @@
-dbname: snowplow
-user: minotaur
-password: kQW3s6EvwPoaxe
-host: artsy-plasma.cbliihnv75ii.us-east-1.redshift.amazonaws.com
-port: 5439
